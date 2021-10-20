@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./test.7z).
+[Link to another page](./Downloads.7z).
 
 There should be whitespace between paragraphs.
 
